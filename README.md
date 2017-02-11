@@ -43,7 +43,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### [SCSI](scsi/scsi.md)
 (Daniel Karoń)
 ### iSCSI
-### [FC](FC - Fibre Channel.md)
+### [FC](https://github.com/konradb77/converged-networks/blob/29d415f234cc3aa032cdd679a8aa20727aa495eb/FC%20-%20Fibre%20Channel.md)
 (Konrad Brandys, Karol Barczyk, Kamil Świerkot)
 ### FCoE 
 (Michał Repeć, Oleksandr Oliinykov, Olena Bondarenko)
